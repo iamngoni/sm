@@ -1,4 +1,4 @@
-# school_management
+# school_attendance_management
 
 A new Flutter project.
 
